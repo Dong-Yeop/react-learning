@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-learning/ytsMovie/static/css/main.5f360211.css",
+    "main.js": "/react-learning/ytsMovie/static/js/main.26178881.js",
+    "index.html": "/react-learning/ytsMovie/index.html",
+    "main.5f360211.css.map": "/react-learning/ytsMovie/static/css/main.5f360211.css.map",
+    "main.26178881.js.map": "/react-learning/ytsMovie/static/js/main.26178881.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f360211.css",
+    "static/js/main.26178881.js"
+  ]
+}
